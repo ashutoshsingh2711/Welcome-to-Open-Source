@@ -5511,5 +5511,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                    <a href="https://github.com/ashutoshsingh2711">
+                        <img
+                            src="https://github.com/account"
+                            width="100px;" alt="Ashutosh Singh" />
+                        <br />
+                        <sub>
+                            <b>Ashutosh Singh</b>
+                        </sub>
+                    </a>
+                </td>
     </tbody>
 </table>
